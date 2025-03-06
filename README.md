@@ -40,3 +40,8 @@ The Jupyter Notebook, `Electric_Vehicle_Data_Analysis_Python.ipynb`, covers the 
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+How to Use
+Open the notebook to follow the entire analysis workflow—from data preprocessing and exploratory analysis to visualization and interpretation. The notebook is designed to be easily customizable, allowing you to adapt the analysis to different datasets or explore additional questions related to electric vehicle performance.
+
+Contributing
+Contributions to enhance this project are welcome. Please fork the repository, create a new branch for your changes, and submit a pull request with your improvements.
